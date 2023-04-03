@@ -1,0 +1,13 @@
+notebook
+pandas
+python-dotenv
+requests
+openai
+tiktoken
+tqdm
+Flask==2.2.2
+langchain==0.0.113
+openai==0.27.2
+chromadb==0.3.11
+unstructured[local-inference]==0.5.7
+langflow
